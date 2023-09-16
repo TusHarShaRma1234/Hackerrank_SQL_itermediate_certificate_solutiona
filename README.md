@@ -1,0 +1,2 @@
+# Hackerrank_SQL_itermediate_certificate_solutiona
+Solution of Hackerrank Intermediate  certification 
